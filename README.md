@@ -1,0 +1,2 @@
+# patika
+Patika.dev Projeler
