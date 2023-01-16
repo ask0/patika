@@ -16,7 +16,7 @@
 [2,6,16,18,22,27]
 ```
 
-**1.** Insertion sort için öncelikle verilen array'i 2 parçaya ayırırız; ilk eleman (sıralı alan) ve kalan elemanlar (sıralanmamış alan). Ardından sıralanmamış alanın ilk elemanına bakılır ve sıralanmış alanda nereye eklenmesi gerektiği sol komşusuyla karşılaştırarak kontrol edilir.
+**1.** Insertion sort için öncelikle verilen array'i 2 parçaya ayırırız; ilk eleman (sıralı alan) ve kalan elemanlar (sıralanmamış alan). Ardından sıralanmamış alanın ilk elemanına bakılır ve sıralanmış alanda nereye eklenmesi gerektiği, sol komşusuyla karşılaştırılarak kontrol edilir.
 
 **2.** Bu örnekte sıralı alanın ilk elemanı 22, sıralanmamış alanın ilk elemanı 27.
 
